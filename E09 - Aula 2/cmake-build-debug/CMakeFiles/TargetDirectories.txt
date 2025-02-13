@@ -1,0 +1,3 @@
+C:/Users/aliss/CLionProjects/E09 - Aula 2/cmake-build-debug/CMakeFiles/untitled2.dir
+C:/Users/aliss/CLionProjects/E09 - Aula 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aliss/CLionProjects/E09 - Aula 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
